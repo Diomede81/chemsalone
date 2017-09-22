@@ -1,0 +1,9 @@
+@font-face {
+    font-family: liberator;
+    src: url('fonts/Liberator.otf')
+
+}
+
+body{
+    font-family:liberator, sans-serif;
+}
